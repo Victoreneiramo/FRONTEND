@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import { registerUser, loginUser } from "../utils/authService";
 import signupImg from "../assets/images/doctor-consult.jpeg";
+import backgroundImg from "../assets/images/background.png";
 
 export default function SignUp() {
   const { isAuthenticated, login } = useAuth();
