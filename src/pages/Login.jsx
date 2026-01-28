@@ -95,9 +95,9 @@ export default function Login() {
         />
 
         <div className="absolute bottom-0 left-0 right-0 bg-black/40 text-white flex justify-around py-6">
-          <span>🔒 Secure & Private</span>
-          <span>❤️ 24/7 Support</span>
-          <span>🏥 Quality Care</span>
+          <span> Secure & Private</span>
+          <span> 24/7 Support</span>
+          <span> Quality Care</span>
         </div>
       </div>
 
