@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 import heroImg from "../assets/images/doctor-patient.jpeg";
 import consultImg from "../assets/images/doctor-consult.jpeg";
 import aiImg from "../assets/images/ai-health.jpeg";
-import logoImg from "../assets/images/LOGO.jpeg";
-import backgroundImg from "../assets/images/background.jpeg";
+import logoImg from "../assets/images/Logo.png";
+import backgroundImg from "../assets/images/background.png";
 
 export default function Onboarding() {
   return (
