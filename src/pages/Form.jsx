@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
-import logoImg from "../assets/images/Logo.png";
+import logoImg from "../assets/images/NovaCareLogo.png";
 import backgroundImg from "../assets/images/background.png";
 
 export default function Form() {
