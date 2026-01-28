@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import { loginUser } from "../utils/authService";
 import loginImg from "../assets/images/doctor-patient.jpeg";
+import backgroundImg from "../assets/images/background.png";
 
 export default function Login() {
   const { isAuthenticated, login } = useAuth();
